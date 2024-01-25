@@ -146,21 +146,21 @@ header .nav4 {
   margin-bottom: 50px;
 }
 .gallery .img3 {
-  background: url(/assets/images/Rectangle1.png);
+  background: url(../assets/images/Rectangle1.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 995.476px;
 }
 .gallery .img4 {
-  background: url(/assets/images/Rectangle2.png);
+  background: url(../assets/images/Rectangle2.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 624.705px;
 }
 .gallery .img5 {
-  background: url(/assets/images/Rectangle3.png);
+  background: url(../assets/images/Rectangle3.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -168,7 +168,7 @@ header .nav4 {
   margin-top: 5vh;
 }
 .gallery .img6 {
-  background: url(/assets/images/Rectangle4.png);
+  background: url(../assets/images/Rectangle4.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -176,7 +176,7 @@ header .nav4 {
   margin-top: -48vh;
 }
 .gallery .img7 {
-  background: url(/assets/images/Rectangle5.png);
+  background: url(../assets/images/Rectangle5.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -184,7 +184,7 @@ header .nav4 {
   margin-top: -24vh;
 }
 .gallery .img8 {
-  background: url(/assets/images/Rectangle6.png);
+  background: url(../assets/images/Rectangle6.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
